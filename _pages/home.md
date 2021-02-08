@@ -15,17 +15,19 @@ feature_row:
     excerpt: "z"
     url: "/docs/configuration/"
     btn_label: "z"
+    
   - image_path: mm-responsive-feature.png
     alt: "fully responsive"
     title: "z"
     excerpt: "z"
     url: "/docs/layouts/"
     btn_label: "z"
+    
   - image_path: mm-free-feature.png
     alt: "100% free"
     title: "100% Free"
     excerpt: "z"
-    url: "/docs/license/"-
+    url: "/docs/license/"
     btn_label: "z"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'

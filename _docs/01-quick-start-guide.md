@@ -1,5 +1,5 @@
 ---
-title: "QG3_본문"
+title: "HTML/CSS/JS"
 permalink: /docs/quick-start-guide/
 excerpt: "HI"
 modified: 2016-04-13T15:54:02-04:00

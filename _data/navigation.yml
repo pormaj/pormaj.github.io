@@ -21,7 +21,7 @@ foo:
 
 # main links links
 main:
-  - title: "QG1_상단링크"
+  - title: "STUDY"
     url: /docs/quick-start-guide/
 
 #  - title: "About"
@@ -50,9 +50,9 @@ docs:
 #      - title: "Upgrading"
 #        url: /docs/upgrading/
 
-  - title: Database
+  - title: DATABASE
     children:
-      - title: "Database"
+      - title: "DATABASE"
         url: /docs/configuration/
 #      - title: "Navigation"
 #        url: /docs/navigation/

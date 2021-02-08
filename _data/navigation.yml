@@ -49,7 +49,7 @@ docs:
 #        url: /docs/installation/
 #      - title: "Upgrading"
 #        url: /docs/upgrading/
-#
+
 #  - title: Customization
 #    children:
 #      - title: "Configuration"
@@ -62,7 +62,7 @@ docs:
 #        url: /docs/authors/
 #      - title: "Layouts"
 #        url: /docs/layouts/
-#
+
 #  - title: Content
 #    children:
 #      - title: "Working with Posts"
@@ -75,14 +75,14 @@ docs:
 #        url: /docs/helpers/
 #      - title: "Utility Classes"
 #        url: /docs/utility-classes/
-#
+
 #  - title: Extras
 #    children:
 #      - title: "Stylesheets"
 #        url: /docs/stylesheets/
 #      - title: "JavaScript"
 #        url: /docs/javascript/
-#
+
 #  - title: Meta
 #    children:
 #      - title: "History"

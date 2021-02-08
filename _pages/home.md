@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: mm-home-page-feature.jpg
-  cta_label: "<!--<i class='fa fa-download'></i>--> <div class='fa fa-li'> IT 블로그" </div>
+  cta_label: "<!--<i class='fa fa-download'></i>--> <p align="center"> IT 블로그" </p>
   cta_url: "/docs/quick-start-guide/"
   caption:
 excerpt: '여기는 메인입니다. <br /> <small></small><br /><br /> {::nomarkdown}{:/nomarkdown}'

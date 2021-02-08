@@ -41,7 +41,7 @@ main:
 docs:
   - title: HTML/CSS/JS
     children:
-      - title: "QG2_글에대한링크"
+      - title: "HTML/CSS/JS"
         url: /docs/quick-start-guide/
 #      - title: "Structure"
 #        url: /docs/structure/
@@ -50,10 +50,10 @@ docs:
 #      - title: "Upgrading"
 #        url: /docs/upgrading/
 
-#  - title: Customization
-#    children:
-#      - title: "Configuration"
-#        url: /docs/configuration/
+  - title: Database
+    children:
+      - title: "Database"
+        url: /docs/configuration/
 #      - title: "Navigation"
 #        url: /docs/navigation/
 #      - title: "UI Text"

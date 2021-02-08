@@ -10,12 +10,12 @@ header:
 excerpt: '여기는 메인입니다. <br /> <small></small><br /><br /> {::nomarkdown}{:/nomarkdown}'
 
     feature_row:
-<!--  - image_path: mm-customizable-feature.png
-<!--    alt: "customizable"
-<!--    title: "Super Customizable"
-<!--    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-<!--    url: "/docs/configuration/"
-<!--    btn_label: "Learn More"
+  - image_path: mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super Customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_label: "Learn More"
 
 <!--  - image_path: mm-responsive-feature.png
 <!--    alt: "fully responsive"

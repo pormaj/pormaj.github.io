@@ -24,8 +24,8 @@ main:
   - title: "QG1_상단링크"
     url: /docs/quick-start-guide/
 
-#  - title: "About"
-#    url: /about/
+  - title: "About"
+    url: /about/
 #
 #  - title: "Sample Posts"
 #    url: /year-archive/
